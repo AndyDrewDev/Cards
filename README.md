@@ -31,10 +31,3 @@ This is a photo slider project featuring animal images, built using HTML, CSS, a
 2. Click on a slide to open it in active mode.
 3. Select the active slide using CSS class `.active`.
 
-
-
-**License**
-------------
-
-* MIT License
-
